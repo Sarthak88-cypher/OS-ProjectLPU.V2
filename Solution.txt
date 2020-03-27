@@ -1,0 +1,1 @@
+Solution: The above problem is based upon the priority of students who have more gifts .If the student has more gifts than he will get the bill first .If two students have same number of gifts then the student who camed first will get billed first .here the students are considered as the processes .The process having maximum brust time will be implemented first.
